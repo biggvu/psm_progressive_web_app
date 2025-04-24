@@ -2,7 +2,7 @@
     "name": "Progressive Web App",
     "short_name": "PWA",
     "start_url": "/psm_progressive_web_app/index.html",
-    "scope": "/psm_progressive_web_appa/",
+    "scope": "/psm_progressive_web_app/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
