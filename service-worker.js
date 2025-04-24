@@ -1,4 +1,4 @@
-var cacheName = 'psm_pwa';
+var cacheName = 'psm_progressive_web_app';
 var filesToCache = [
     '/',
     '/index.html',
